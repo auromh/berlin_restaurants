@@ -1,0 +1,98 @@
+country,Food,4d4b7105d754a06374d81259
+country,Afghan,503288ae91d4c4b30a586d67
+country,African,4bf58dd8d48988d1c8941735
+country,Ethiopian,4bf58dd8d48988d10a941735
+country,American,4bf58dd8d48988d14e941735
+country,Asian,4bf58dd8d48988d142941735
+country,Burmese,56aa371be4b08b9a8d573568
+country,Cambodian,52e81612bcbc57f1066b7a03
+country,Chinese,4bf58dd8d48988d145941735
+country,Filipino,4eb1bd1c3b7b55596b4a748f
+country,Himalayan,52e81612bcbc57f1066b79fb
+country,Indonesian,4deefc054765f83613cdba6f
+country,Japanese,4bf58dd8d48988d111941735
+country,Korean,4bf58dd8d48988d113941735
+country,Malay,4bf58dd8d48988d156941735
+country,Mongolian,4eb1d5724b900d56c88a45fe
+country,Thai,4bf58dd8d48988d149941735
+country,Nepali,52af39fb3cf9994f4e043be9
+country,Vietnamese,4bf58dd8d48988d14a941735
+country,Australian,4bf58dd8d48988d169941735
+country,Austrian,52e81612bcbc57f1066b7a01
+country,Belgian,52e81612bcbc57f1066b7a02
+country,Caribbean,4bf58dd8d48988d144941735
+country,Cuban,4bf58dd8d48988d154941735
+country,Caucasian,5293a7d53cf9994f4e043a45
+country,Czech,52f2ae52bcbc57f1066b8b81
+country,Dutch,5744ccdfe4b0c0459246b4d0
+country,Eastern European,4bf58dd8d48988d109941735
+country,Bosnian,58daa1558bbb0b01f18ec1ee
+country,Bulgarian,56aa371be4b08b9a8d5734f3
+country,Romanian,52960bac3cf9994f4e043ac4
+country,English,52e81612bcbc57f1066b7a05
+country,French,4bf58dd8d48988d10c941735
+country,German,4bf58dd8d48988d10d941735
+country,Greek,4bf58dd8d48988d10e941735
+country,Hungarian,52e81612bcbc57f1066b79fa
+country,Indian,4bf58dd8d48988d10f941735
+country,Irish,52e81612bcbc57f1066b7a06
+country,Italian,4bf58dd8d48988d110941735
+country,Latin American,4bf58dd8d48988d1be941735
+country,Salvadoreño,5745c7ac498e5d0483112fdb
+country,Argentinian,4bf58dd8d48988d107941735
+country,Brazilian,4bf58dd8d48988d16b941735
+country,Colombian,58daa1558bbb0b01f18ec1f4
+country,Peruvian,4eb1bfa43b7b52c0e1adc2e8
+country,Venezuelan,56aa371be4b08b9a8d573558
+country,Moroccan,4bf58dd8d48988d1c3941735
+country,Mexican,4bf58dd8d48988d1c1941735
+country,Egyptian,5bae9231bedf3950379f89e1
+country,Iraqi,5bae9231bedf3950379f89e7
+country,Israeli,56aa371be4b08b9a8d573529
+country,Kurdish,5744ccdfe4b0c0459246b4ca
+country,Lebanese,58daa1558bbb0b01f18ec1cd
+country,Iranian,52e81612bcbc57f1066b79f7
+country,Syrian,5bae9231bedf3950379f89da
+country,Yemeni,5bae9231bedf3950379f89ea
+country,Pakistani,52e81612bcbc57f1066b79f8
+country,Polish,52e81612bcbc57f1066b7a04
+country,Portuguese,4def73e84765ae376e57713a
+country,Russian,5293a7563cf9994f4e043a44
+country,Scandinavian,4bf58dd8d48988d1c6941735
+country,Scottish,5744ccdde4b0c0459246b4a3
+country,Seafood,4bf58dd8d48988d1ce941735
+country,Slovak,56aa371be4b08b9a8d57355a
+country,Spanish,4bf58dd8d48988d150941735
+country,Sri Lankan,5413605de4b0ae91d18581a9
+country,Swiss,4bf58dd8d48988d158941735
+country,Turkish,4f04af1f2fb6e1c99f3db0bb
+country,Ukrainian,52e928d0bcbc57f1066b7e96
+other,Vegetarian / Vegan,4bf58dd8d48988d1d3941735
+other,Gluten-free,4c2cd86ed066bed06c3c5209
+other,BBQ Joint,4bf58dd8d48988d1df931735
+other,Bagel Shop,4bf58dd8d48988d179941735
+other,Bakery,4bf58dd8d48988d16a941735
+other,Fast Food,4bf58dd8d48988d16e941735
+other,Fish & Chips Shop,4edd64a0c7ddd24ca188df1a
+other,Fondue,52e81612bcbc57f1066b7a09
+other,Food Court,4bf58dd8d48988d120951735
+other,Food Stand,56aa371be4b08b9a8d57350b
+other,Food Truck,4bf58dd8d48988d1cb941735
+other,Fried Chicken Joint,4d4ae6fc7a7b7dea34424761
+other,Friterie,55d25775498e9f6a0816a37a
+other,Gastropub,4bf58dd8d48988d155941735
+other,Hot Dog Joint,4bf58dd8d48988d16f941735
+other,Juice Bar,4bf58dd8d48988d112941735
+other,Steakhouse,4bf58dd8d48988d1cc941735
+other,Kebap,5283c7b4e4b094cb91ec88d7
+other,Falafel,4bf58dd8d48988d10b941735
+other,Pizza Place,4bf58dd8d48988d1ca941735
+other,Salad Place,4bf58dd8d48988d1bd941735
+other,Sandwich Place,4bf58dd8d48988d1c5941735
+other,Hawaiian,52e81612bcbc57f1066b79fe
+other,Halal,52e81612bcbc57f1066b79ff
+other,Gluten-free,4c2cd86ed066bed06c3c5209
+other,Burger Joint,4bf58dd8d48988d16c941735
+other,Cajun / Creole,4bf58dd8d48988d17a941735
+other,Snack Place,4bf58dd8d48988d1c7941735
+other,Soup Place,4bf58dd8d48988d1dd931735
