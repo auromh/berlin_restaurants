@@ -1,26 +1,26 @@
-# Culinary trip around the world without leaving berlin
+# Culinary trip around the world without leaving Berlin
 
 ## 1. Description
-Being very interested on different cuisines and cultures but without the resources to travel around the whole world, my question was whether it was possible to visit all countires in the world through their cuisine while being in Berlin. For that I collected data through Foursquare's API.
+Being very interested in different cuisines and cultures but without the resources to travel around the whole world, my question was whether it was possible to visit all countires in the world through their cuisine while being in Berlin. For that I collected data from the Foursquare's API.
 
 ## 2. Results
-- Almost 50% of the countries have a restuarant in Berlin that represents their cuisine
-- The continent with more restaurants representing their cuisine is Asia
-- However, the cuisine with more restaurants is Italian cuisine. Can be due to the amount of asian fussion restuarnts what makes the number of restaurants be divided and therefore ending up being less than Italian as individual cuisines
-- With Ironhack as starting point, I've created and optimize a route to visit one restaurant of each country, one after the other as we would be travelling around the globe. With Here's API I have obtained the directions to get from one place to the next, the time needed and the public transportations lines. 
-- Since usually one only want to eat in one restaurant a day. I have represented the closest restaurant to Ironhack for each type of cuisine.
-- I have also created and optimized a route for each continent. Meaning, visiting all restaurants available whose cuisine belongs to a specific continent
-- Lastly, I have created a small tool that with which one can give ones location (latitude and longitud) and the type of cuisine that one is interested on, and all restuarants belonging to that cuisine will be displayed in a map, together with a line joining that restuarnt with the procured location.
+- Almost 50% of the countries have a restuarant in Berlin that represents their cuisine.
+- The continent with more restaurants representing their cuisine is Asia.
+- However, the cuisine with the most restaurants is Italian cuisine. This can be due to the amount of asian fusion restaurants which divides the number of restaurants and therefore they end up having fewer restaurants than Italy.
+- With Ironhack as the starting point, I've created and optimized a route to visit one restaurant of each country, one after the other as we would be travelling around the globe. With Here's API I have obtained the directions to get from one place to the next, the time needed and the public transportation routes. 
+- Since usually one only wants to eat in one restaurant per day. I have represented the closest restaurant to Ironhack for each type of cuisine.
+- I have also created and optimized a route for each continent. Meaning, visiting all restaurants available with cuisine belonging to a specific continent.
+- Lastly, I have created a small tool with which one can give ones location (latitude and longitude) and the type of cuisine that one is interested in, and all restaurants belonging to that cuisine will be displayed in a map, together with a line joining that restaurant with the given location.
 
 ## 3. Files
-- data_prep: gets the data from Foursquare's API, cleans it and processes it so that it can be later used for the visualization and analysis parts. Exports pickle file.
-- Analysis: notebook used to visualize and get the above mentioned results. The following visualizations are produced:
+- data_prep: gets the data from Foursquare's API, cleans it and processes it so that it can be later used for the visualization and analysis parts, then exports several pickle files.
+- Analysis: notebook used to visualize and get the above-mentioned results. The following visualizations are produced:
   - Geographic distribution of the restaurants
-  - Top 10 country-cuisines with most restaurants in berlin
+  - Top 10 country-cuisines with the most restaurants in Berlin
   - Distribution of restaurants per continent
   - Percentage of countries represented vs countries not represented
-  - Map visualization of countries represented and number of restaurants
-- Routing: notebook where all the optimization route, getting directions from Here's API, and visualizing results in a map
+  - Map visualization of countries represented and the number of restaurants
+- Routing: notebook containing all the optimization routes, getting directions from Here's API, visualizing the results on a map and exporting several pickle and csv files.
 - data: folder where all pickle and csv files are being exported to
 - input: folder that contains two csv files needed in the data-prep notebook
 
