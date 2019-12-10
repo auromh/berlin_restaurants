@@ -23,8 +23,8 @@ Being very interested on different cuisines and cultures but without the resourc
 - Routing: notebook where all the optimization route, getting directions from Here's API, and visualizing results in a map
 
 ## 4. Sources
-- [Foursquare's API] (https://de.foursquare.com) for getting a dataset of restaurants 
-- [Here's API] (https://www.here.com) for getting directions
+- [Foursquare's API](https://de.foursquare.com) for getting a dataset of restaurants 
+- [Here's API](https://www.here.com) for getting directions
 
 ## 5. Environment dependencies
 - appnope==0.1.0
