@@ -4,13 +4,13 @@
 Being very interested in different cuisines and cultures but without the resources to travel around the whole world, my question was whether it was possible to visit all countires in the world through their cuisine while being in Berlin. For that I collected data from the Foursquare's API.
 
 ## 2. Results
-- Almost 50% of the countries have a restuarant in Berlin that represents their cuisine.
-- The continent with more restaurants representing their cuisine is Asia.
-- However, the cuisine with the most restaurants is Italian cuisine. This can be due to the amount of asian fusion restaurants which divides the number of restaurants and therefore they end up having fewer restaurants than Italy.
-- With Ironhack as the starting point, I've created and optimized a route to visit one restaurant of each country, one after the other as we would be travelling around the globe. With Here's API I have obtained the directions to get from one place to the next, the time needed and the public transportation routes. 
-- Since usually one only wants to eat in one restaurant per day. I have represented the closest restaurant to Ironhack for each type of cuisine.
-- I have also created and optimized a route for each continent. Meaning, visiting all restaurants available with cuisine belonging to a specific continent.
-- Lastly, I have created a small tool with which one can give ones location (latitude and longitude) and the type of cuisine that one is interested in, and all restaurants belonging to that cuisine will be displayed in a map, together with a line joining that restaurant with the given location.
+- Almost 50% of the countries have a restuarant in Berlin that represents their cuisine.![](visualizations/Map_countries_no_restaurants.png)
+- The continent with more restaurants representing their cuisine is Asia. ![](visualizations/Restaurants_per_continent.png)
+- However, the cuisine with the most restaurants is Italian cuisine. This can be due to the amount of asian fusion restaurants which divides the number of restaurants and therefore they end up having fewer restaurants than Italy.![](visualizations/Top_10_countries.png)
+- With Ironhack as the starting point, I've created and optimized a route to visit one restaurant of each country, one after the other as we would be travelling around the globe. With Here's API I have obtained the directions to get from one place to the next, the time needed and the public transportation routes. ![](visualizations/route_optimized_every_country.png)
+- Since usually one only wants to eat in one restaurant per day. I have represented the closest restaurant to Ironhack for each type of cuisine.![](visualizations/closest_restaurant_every_country.png)
+- I have also created and optimized a route for each continent. Meaning, visiting all restaurants available with cuisine belonging to a specific continent.![](visualizations/route_optimized_continent.png)
+- Lastly, I have created a small tool with which one can give ones location (latitude and longitude) and the type of cuisine that one is interested in, and all restaurants belonging to that cuisine will be displayed in a map, together with a line joining that restaurant with the given location. ![](visualizations/closest_restaurants_to_location.png)
 
 ## 3. Files
 - data_prep: gets the data from Foursquare's API, cleans it and processes it so that it can be later used for the visualization and analysis parts, then exports several pickle files.
@@ -23,6 +23,7 @@ Being very interested in different cuisines and cultures but without the resourc
 - Routing: notebook containing all the optimization routes, getting directions from Here's API, visualizing the results on a map and exporting several pickle and csv files.
 - data: folder where all pickle and csv files are being exported to
 - input: folder that contains two csv files needed in the data-prep notebook
+- visualizations: folder containing screenshots of the graphs made with plotly express (they aren't rendered in github)
 
 ## 4. Sources
 - [Foursquare's API](https://de.foursquare.com) for getting a dataset of restaurants 
