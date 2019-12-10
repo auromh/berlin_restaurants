@@ -21,6 +21,8 @@ Being very interested on different cuisines and cultures but without the resourc
   - Percentage of countries represented vs countries not represented
   - Map visualization of countries represented and number of restaurants
 - Routing: notebook where all the optimization route, getting directions from Here's API, and visualizing results in a map
+- data: folder where all pickle and csv files are being exported to
+- input: folder that contains two csv files needed in the data-prep notebook
 
 ## 4. Sources
 - [Foursquare's API](https://de.foursquare.com) for getting a dataset of restaurants 
